@@ -14,7 +14,7 @@ namespace ConsoleApp_task2
                 myArray[i] = i * 2;
             }
 
-            Console.WriteLine("Your array:");
+            Console.WriteLine("Your array test:");
             for (int i = 0; i < myArray.Length; i++)
             {
                 Console.WriteLine(myArray[i]);
